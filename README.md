@@ -40,13 +40,6 @@ ng serve
 Navigate to http://localhost:4200/ in your browser.
 
 
-Project Structure: 
-
-<pre lang="plaintext"> ```plaintext src/ ├── app/ │ ├── components/ │ │ ├── employee-registration/ │ │ ├── employee-list/ │ │ ├── about/ │ │ └── contact/ │ ├── app-routing.module.ts │ ├── app.module.ts │ └── ... ├── assets/ ├── environments/ └── index.html ``` </pre>
-
-
-
-
 🧪 Development Notes
 The app uses Reactive Forms for better form control and validation.
 Modular structure for easy scalability and readability.
