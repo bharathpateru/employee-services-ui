@@ -30,7 +30,8 @@ This is an **Angular 13** application that allows you to register employees usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/employee-services-ui.git
+   git clone https://github.com/bharathpateru/employee-services-ui.git
+cd into application:
    cd employee-services-ui
 2. Install Dependencies 
 npm install
