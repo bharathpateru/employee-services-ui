@@ -42,19 +42,7 @@ Navigate to http://localhost:4200/ in your browser.
 
 Project Structure: 
 
-src/
-├── app/
-│   ├── components/
-│   │   ├── employee-registration/
-│   │   ├── employee-list/
-│   │   ├── about/
-│   │   └── contact/
-│   ├── app-routing.module.ts
-│   ├── app.module.ts
-│   └── ...
-├── assets/
-├── environments/
-└── index.html
+<pre lang="plaintext"> ```plaintext src/ ├── app/ │ ├── components/ │ │ ├── employee-registration/ │ │ ├── employee-list/ │ │ ├── about/ │ │ └── contact/ │ ├── app-routing.module.ts │ ├── app.module.ts │ └── ... ├── assets/ ├── environments/ └── index.html ``` </pre>
 
 
 
